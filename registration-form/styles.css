@@ -1,0 +1,56 @@
+/* body  {
+    background-image:url("/Images/Asset\ 1-100.jpg");
+    width: 1676px;
+    height: 1000px ;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    width: 0.01em;
+  }
+   
+.whole {
+    position: absolute;
+    height: 751px;
+    width: 1676px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.sign-up {
+    font-size: 15px;
+    position: relative;
+    top:50px;
+    left: 537px;
+    background-color: aliceblue;
+    width: 600px;
+    height: 950px;
+    box-sizing: content-box;
+    border-radius: 10px;
+}
+
+.heading {
+    position: relative;
+    width: 600px;
+    height: 100px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+
+
+
+/* .genderInfo {
+    position: relative;
+    width: 600px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:beige;
+} */
+

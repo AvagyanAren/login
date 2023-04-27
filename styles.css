@@ -1,0 +1,143 @@
+body {
+    background-image:url("/Images/Asset\ 1-100.jpg");
+    overflow: hidden;
+    height: 100%;
+    width: 1676px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.whole {
+    height: 751px;
+    width: 1676px;
+   display: flex;
+   flex-direction: column;
+    position: absolute;
+    
+}
+
+.sign-in {
+    position: relative;
+    top: 30px;
+    left: 537px;
+    background-color: aliceblue;
+    width: 600px;
+    height: 650px;
+    box-sizing: content-box;
+    border-radius: 10px;
+}
+
+.heading {
+    position: relative;
+    top: 10px;
+    left: 150px;
+    height:80px;
+    width: 300px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.signform {
+    position: relative;
+    width: 357px;
+    height: 113px;
+    top:70px;
+    left:121px;
+    
+}
+
+#login {
+    position: relative;
+    background-color:aliceblue;
+    border-width: 0px;
+    border-bottom-width:1px ;
+    border-color: rgb(195, 195, 195);
+    padding: 15px;
+    margin: 4px;
+    width: 337px;
+}
+
+#pass {
+    position: relative;
+    background-color:aliceblue;
+    border-width: 0px;
+    border-bottom-width:1px;
+    border-color: rgb(195, 195, 195);
+    padding: 15px;
+    margin: 4px;
+    width: 337px;
+}
+
+.forgot {
+    position: relative;
+    font-size: 12px;
+    left:260px;
+    text-decoration: none;
+    color: black;
+}
+
+#submit {
+    position: relative;
+    width: 300px;
+    height: 50px;
+    background: rgb(164,70,207);
+    background: linear-gradient(225deg, rgba(164,70,207,1) 42%, rgba(0,255,248,1) 83%);
+    border-width: 0px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    top: 30px;
+    left: 40px;
+    color:aliceblue;
+    font-weight: 600;
+}
+
+#submit:hover {
+    cursor:pointer;
+}
+
+.other-method {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:50px;
+    left: 15px;
+}
+
+.icons {
+    position: relative;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 130px;
+    height: 50px;
+    left: 126px;
+    top: 15px;
+}
+
+.instagram {
+    width: 30px;
+    height: 30px;
+    background-image: url("/icons/PNG/Asset\ 1.png");
+    left: 50px;
+    
+}
+
+.facebook {
+    width: 30px;
+    height: 30px;
+    background-image: url("/icons/PNG/PNG/Asset\ 1.png");
+}
+
+.linkedin {
+    width: 30px;
+    height: 30px;
+    background-image: url("/icons/Asset\ 1.png");
+}
+
